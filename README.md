@@ -3,4 +3,4 @@
 
 
 圆环动画实现
-![README.md-2018109145946](http://ok8j2fjtv.bkt.clouddn.com/Users/yanghao/code/java/java-algorithms-visual/README.md-2018109145946.png)
+![2018-10-09-15-03-55-201810915356](http://ok8j2fjtv.bkt.clouddn.com/2018-10-09-15-03-55-201810915356.png)
